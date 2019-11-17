@@ -92,6 +92,8 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="clients.html" />
+    <Content Include="services.html" />
     <Content Include="about.html" />
     <Content Include="assets\assets\coloredbg.html" />
     <Content Include="assets\assets\gridtile.html" />
@@ -498,6 +500,7 @@
     <Content Include="assets\js\swiper.min.js" />
     <Content Include="assets\js\typed.js" />
     <Content Include="index.html" />
+    <Content Include="team.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
