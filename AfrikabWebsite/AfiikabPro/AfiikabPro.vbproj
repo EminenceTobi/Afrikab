@@ -92,6 +92,19 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\image\clients\ade-logo.png" />
+    <Content Include="assets\image\clients\amp-logo.png" />
+    <Content Include="assets\image\clients\anetor-logo.png" />
+    <Content Include="assets\image\clients\archscape-logo.png" />
+    <Content Include="assets\image\clients\barros-logo.png" />
+    <Content Include="assets\image\clients\bricks-logo.png" />
+    <Content Include="assets\image\clients\hillary-logo.png" />
+    <Content Include="assets\image\clients\nego-logo.png" />
+    <Content Include="assets\image\clients\padel-logo .png" />
+    <Content Include="assets\image\clients\que-logo .png" />
+    <Content Include="assets\image\clients\transtate-logo .png" />
+    <Content Include="assets\image\clients\verger-logo.png" />
+    <Content Include="assets\image\clients\walksey-logo .png" />
     <Content Include="clients.html" />
     <Content Include="services.html" />
     <Content Include="about.html" />
