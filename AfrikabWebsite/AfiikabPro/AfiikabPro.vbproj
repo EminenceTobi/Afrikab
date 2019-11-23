@@ -106,6 +106,7 @@
     <Content Include="assets\image\clients\verger-logo.png" />
     <Content Include="assets\image\clients\walksey-logo .png" />
     <Content Include="clients.html" />
+    <Content Include="teams.html" />
     <Content Include="services.html" />
     <Content Include="about.html" />
     <Content Include="assets\assets\coloredbg.html" />
